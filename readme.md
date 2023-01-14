@@ -5,7 +5,7 @@
 * 64-bit Windows machine
 * [Python 3.9](https://www.python.org/downloads/release/python-390/) or newer
 * Newest [build uploader](https://github.com/GameSwift/gameswift-build-uploader/releases)
-* 3 secret values provided by [piotr.sobiecki@gameswift.io](mailto:piotr.sobiecki@gameswift.io)
+* 3 secret values provided by [peter@gameswift.io](mailto:peter@gameswift.io)
   * User API key
   * Application secret
   * Branch secret
@@ -44,7 +44,7 @@ python D:\gameswift-build-uploader\src\build_uploader.py ^
 Note: the process of uploading can take some time, depending on your build size and connection speed. After successful upload script should exit with a message like `[UPLOADER] Upload successfully finished!`.
 
 # Troubleshooting
-In case of any problems, you can try reading help for build uploader like below or contact us at [piotr.sobiecki@gameswift.io](mailto:piotr.sobiecki@gameswift.io).
+In case of any problems, you can try reading help for build uploader like below or contact us at [peter@gameswift.io](mailto:peter@gameswift.io).
 ```bat
 python D:\gameswift-build-uploader\src\build_uploader.py -h
 ```
